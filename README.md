@@ -1,4 +1,4 @@
-php-platform-connector-sdk
+platform-connector-sdk
 ==========================
 
-Provides tools necessary to create interface connectors to the DreamFactory Services Platform(tm)
+Provides tools necessary to create interface connectors to the [DreamFactory Services Platform(tm)](//github.com/dreamfactorysoftware/dsp-core)
