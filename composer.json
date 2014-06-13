@@ -1,0 +1,33 @@
+{
+	"name":              "dreamfactory/platform-sdk-for-js",
+	"description":       "DreamFactory Services Platform(tm) Platform SDK for Javascript",
+	"homepage":          "https://www.dreamfactory.com/",
+	"keywords":          ["dsp", "dsp-library", "dsp-sdk", "sdk"],
+	"license":           ["Apache-2.0"],
+	"authors":           [
+		{
+			"name":  "Jerry Ablan",
+			"email": "jerryablan@dreamfactory.com",
+			"role":  "Lead Developer, server-side/client-side"
+		},
+		{
+			"name":  "Michael Mandato",
+			"email": "michaelmandato@dreamfactory.com",
+			"role":  "Lead Developer, client-side"
+		},
+		{
+			"name":  "Jason Sykes",
+			"email": "jasonsykes@dreamfactory.com",
+			"role":  "Lead Developer, client-side"
+		}
+	],
+	"require":           {
+		"dreamfactory/javascript-sdk":       "~1.0.0@dev"
+	},
+	"minimum-stability": "dev",
+	"extra":             {
+		"branch-alias": {
+			"dev-develop": "1.1.x-dev"
+		}
+	}
+}
